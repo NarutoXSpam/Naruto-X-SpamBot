@@ -1,19 +1,19 @@
 {
-    "name": "MKXSPAM HERE.",
-    "description": "MOST POWERFUL + STABLE SPAM USERBOTS",
-    "logo": "https://te.legra.ph/file/a2beccc714b5f011dd42d.jpg",
+    "name": "NARUTO X SPAM.",
+    "description": "MOST POWERFUL + STABLE SPAM USERBOTS"(FEEL THE POWER OF NARUTO),
+    "logo": "https://te.legra.ph/file/744e5bcd7a462b6338bf3.jpg",
     "keywords": [
         "telegram",
         "telethon",
         "telegram-bot",
-        "MKXSpam",
+        "NarutoXSpam",
         "SpamBots"
     ],
-    "repository": "https://github.com/ERR0rMK/PythonBot13",
+    "repository": "https://github.com/NarutoXSpam/NarutoXSpam",
     "env": {
       "ALIVE_PIC": {
         "description": "Your alive pic or video",
-        "value": "",
+        "value": "".,
         "required": false
       },
       "API_ID": {
