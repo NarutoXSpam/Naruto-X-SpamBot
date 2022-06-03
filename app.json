@@ -8,7 +8,7 @@
         "telegram-bot",
         "NarutoXSpam",
         "SpamBots"
-    ],
+    ,
     "repository": "https://github.com/NarutoXSpam/NarutoXSpam",
     "env": {
       "ALIVE_PIC": {
