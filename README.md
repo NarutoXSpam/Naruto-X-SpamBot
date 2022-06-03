@@ -7,4 +7,4 @@
 </p>
 
 # Deploy on heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ERR0rMK/PythonBot13)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/NarutoXSpam/NarutoXSpam)
