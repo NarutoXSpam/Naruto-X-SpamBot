@@ -13,7 +13,7 @@
     "env": {
       "ALIVE_PIC": {
         "description": "Your alive pic or video",
-        "value": "".,
+        "value": "",
         "required": false
       },
       "API_ID": {
